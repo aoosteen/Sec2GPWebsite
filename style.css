@@ -548,7 +548,7 @@ body.model-page {
   transform: translateX(-50%);
 }
 .model-text.bottom {
-  bottom: -230px; /* moved 20px lower */
+  bottom: -225px; /* moved 20px lower */
   left: 50%;
   transform: translateX(-50%);
 }
