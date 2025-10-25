@@ -543,12 +543,12 @@ body.model-page {
 
 /* positions */
 .model-text.top {
-  top: -225px;
+  top: -222px;
   left: 50%;
   transform: translateX(-50%);
 }
 .model-text.bottom {
-  bottom: -240px;
+  bottom: -237px;
   left: 50%;
   transform: translateX(-50%);
 }
