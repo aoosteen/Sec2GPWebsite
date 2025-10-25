@@ -543,18 +543,18 @@ body.model-page {
 
 /* positions */
 .model-text.top {
-  top: -230px; /* moved 20px higher */
+  top: -225px;
   left: 50%;
   transform: translateX(-50%);
 }
 .model-text.bottom {
-  bottom: -225px; /* moved 20px lower */
+  bottom: -240px;
   left: 50%;
   transform: translateX(-50%);
 }
 
 .model-text.left {
-  left: -225px;
+  left: -230px;
   top: 50%;
   transform: translateY(-50%);
 }
