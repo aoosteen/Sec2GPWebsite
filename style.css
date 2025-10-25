@@ -554,13 +554,13 @@ body.model-page {
 }
 
 .model-text.left {
-  left: -240px;
+  left: -225px;
   top: 50%;
   transform: translateY(-50%);
 }
 
 .model-text.right {
-  right: -240px;
+  right: -230px;
   top: 50%;
   transform: translateY(-50%);
 }
