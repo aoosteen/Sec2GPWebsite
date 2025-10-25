@@ -545,6 +545,7 @@ body.model-page {
 .model-text.top {
   top: -120px; /* moved 20px higher */
   left: 50%;
+  width: 1000px;
   transform: translateX(-50%);
 }
 .model-text.bottom {
