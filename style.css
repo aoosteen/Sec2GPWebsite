@@ -543,7 +543,7 @@ body.model-page {
 
 /* positions */
 .model-text.top {
-  top: -250px; /* moved 20px higher */
+  top: -230px; /* moved 20px higher */
   left: 50%;
   transform: translateX(-50%);
 }
